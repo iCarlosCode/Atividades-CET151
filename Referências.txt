@@ -1,0 +1,8 @@
+- https://www.youtube.com/watch?v=4_2BEgOFd0E
+- https://stackoverflow.com/questions/71411038/how-do-i-return-a-char-from-a-char-pointer-function-in-c
+- https://www.quora.com/What-are-different-ways-to-initialize-an-array-without-using-a-loop
+- https://www.tutorialspoint.com/c_standard_library/c_function_realloc.htm
+- https://pt.stackoverflow.com/questions/66747/como-usar-gets-no-c
+- https://www.programiz.com/cpp-programming/library-function/cstdio/gets
+- https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming
+- https://www.programiz.com/cpp-programming/library-function/cstdlib/realloc
